@@ -44,8 +44,8 @@ def _fill_tax (options):
 
 def _set_options ():
 	parser = argparse.ArgumentParser()
-	parser.add_argument('-i','--i-sintax-taxtable',action='store',required=True,type=str,dest='input',help='Sintax file with taxonomy')
-	parser.add_argument('-o','--output_name',action='store',default=0,type=str,dest='outname',help='Output filename.')
+	parser.add_argument('-i','--i-sintax-taxtable',action='store',required=True,type=str,dest='input',help='Sintax file with taxonomy.')
+	parser.add_argument('-o','--output_name',action='store',default='out_filltax.txt',type=str,dest='outname',help='Output filename.')
 	args = parser.parse_args()
 	return args
 
