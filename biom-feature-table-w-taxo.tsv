@@ -1,0 +1,22 @@
+# Constructed from biom file																									
+#OTU ID	sample1	sample2	sample3	sample4	sample5	sample6	sample7	sample8	sample9	sample10	sample11	sample12	sample13	sample14	sample15	sample16	sample17	sample18	sample19	sample20	sample21	sample22	sample23	sample24	Consensus Lineage
+OTU1	3959	2649	474	6618	3952	8348	8533	9611	3307	6865	7828	5863	2266	5008	9249	5361	4408	2908	2296	9391	232	8915	8379	5	k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__;g__;s__
+OTU2	2995	7947	2087	2343	5259	249	2459	3626	3585	1882	9693	818	1973	3990	714	3423	7246	5744	2322	4063	8412	9161	8177	1903	k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__
+OTU3	632	5868	3892	990	9834	9382	2370	9869	3988	2754	7880	7604	6148	4628	373	2084	5420	5195	6818	68	1956	8440	4064	2453	k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__;g__;s__
+OTU4	9988	5213	7609	3757	5963	2639	2021	2959	2185	652	4270	1894	3961	4155	999	6380	6125	5101	7035	9746	4498	5506	2727	4073	k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__;s__
+OTU5	5573	7773	375	5749	677	469	5608	8019	4355	7051	7556	2354	1920	7601	6161	9667	2186	5215	7955	3500	9158	5944	8726	2767	k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__
+OTU6	1659	954	1200	8837	8071	2335	744	2128	4024	6793	2410	4464	7299	262	4598	6234	4586	555	2480	9528	9473	6832	1179	2313	k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__;g__;s__
+OTU7	7072	9874	3875	5442	2393	3176	2181	5568	3041	8538	5472	5346	4909	1411	2336	1349	2382	2059	2794	7570	1805	3588	4951	3840	k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Carnobacteriaceae;g__;s__
+OTU8	4454	459	6040	3011	3086	7830	5111	7387	1271	3802	8466	224	2240	1520	5632	4376	8247	348	1561	1008	8205	8328	3366	5115	k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__
+OTU9	2666	3475	6071	4537	3578	3956	8958	5806	367	1351	2993	9354	1249	9450	5556	9613	6076	6575	9408	5867	9274	5541	5608	9475	k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Caloramator;s__
+OTU10	4087	3779	4851	9833	1859	4324	6474	6333	9430	694	6389	890	2371	3728	3833	7352	2580	745	935	6957	5235	5012	8295	3419	k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__
+OTU11	3248	9962	9710	369	4228	1896	4162	3870	7265	1889	2961	33	6910	1135	930	5909	6815	4233	3419	7941	3655	2888	3378	2970	k__Bacteria;p__Actinobacteria;c__;o__;f__;g__;s__
+OTU12	1494	2003	3534	9444	1910	8516	9925	184	2696	9371	3790	9329	4889	6014	9872	8888	8085	9945	6820	1008	7504	2681	4057	7243	k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__;s__
+OTU13	3521	7260	6169	4959	9561	7388	7969	6550	4741	2221	5047	6744	9948	4671	6578	7254	2402	3690	8170	2486	4573	667	8225	1196	k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__
+OTU14	5165	3031	6291	1350	7694	6978	544	1523	1263	7435	8493	1224	7075	8097	3475	9908	2738	5972	4171	1542	1667	5560	9159	1294	k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Caloramator;s__
+OTU15	1027	1507	2452	9741	3976	5137	7437	459	6400	4334	8391	4968	6243	1525	8233	3611	1389	9890	9159	7259	9853	582	965	613	k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__
+OTU16	8138	8942	6087	1522	324	389	7653	8027	851	96	3888	8970	36	7126	6959	5494	985	3074	3940	7256	7666	2532	3626	1810	k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__
+OTU17	8825	4020	318	3664	3493	8385	5583	474	4481	1483	348	7414	5800	8254	1681	4911	8289	2177	2534	8897	8331	4625	1657	3733	k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__
+OTU18	4161	6697	1274	3181	336	1555	753	5076	5141	637	9584	1320	2200	417	6288	3734	6651	7407	9609	1089	436	6948	4023	8096	k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__
+OTU19	9213	2638	7139	6189	5931	2081	7256	6023	3172	5620	2488	7475	4033	2	6054	862	8976	5631	3549	9975	2108	4490	2190	3055	k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__
+OTU20	5626	6150	8191	833	8278	3564	251	8435	4820	3115	9432	5556	6813	6994	8395	7165	5951	4951	4132	5475	9074	6664	6745	3941	k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__
